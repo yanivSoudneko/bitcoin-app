@@ -1,0 +1,10 @@
+.contactList {
+    max-width: 1060px;
+    margin: 0 auto;
+    display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  li{
+      list-style: none;
+  }
+}

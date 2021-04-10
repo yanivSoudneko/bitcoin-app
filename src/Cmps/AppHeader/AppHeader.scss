@@ -1,0 +1,29 @@
+.app-header {
+    display: flex;
+    align-items: center;
+    padding: 7px 20px;
+    max-width: 1060px;
+    margin: 0 auto;
+    justify-content: space-between;
+    h1 {
+      color: lightsalmon;
+    }
+    ul {
+      margin-inline-start: 20px;
+      display: flex;
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+    li {
+      margin-inline-start: 10px;
+      img{
+        width: 40px;
+      }
+    }
+    .active-nav {
+      font-weight: bold;
+      color: red;
+    }
+  }
+  
