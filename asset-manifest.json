@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bitcoin-app/static/css/main.e5cc5dbe.chunk.css",
+    "main.js": "/bitcoin-app/static/js/main.62835a61.chunk.js",
+    "main.js.map": "/bitcoin-app/static/js/main.62835a61.chunk.js.map",
+    "runtime-main.js": "/bitcoin-app/static/js/runtime-main.e1f14e63.js",
+    "runtime-main.js.map": "/bitcoin-app/static/js/runtime-main.e1f14e63.js.map",
+    "static/js/2.999f42e9.chunk.js": "/bitcoin-app/static/js/2.999f42e9.chunk.js",
+    "static/js/2.999f42e9.chunk.js.map": "/bitcoin-app/static/js/2.999f42e9.chunk.js.map",
+    "static/js/3.968fbda5.chunk.js": "/bitcoin-app/static/js/3.968fbda5.chunk.js",
+    "static/js/3.968fbda5.chunk.js.map": "/bitcoin-app/static/js/3.968fbda5.chunk.js.map",
+    "index.html": "/bitcoin-app/index.html",
+    "static/css/main.e5cc5dbe.chunk.css.map": "/bitcoin-app/static/css/main.e5cc5dbe.chunk.css.map",
+    "static/js/2.999f42e9.chunk.js.LICENSE.txt": "/bitcoin-app/static/js/2.999f42e9.chunk.js.LICENSE.txt",
+    "static/media/contact.42200432.png": "/bitcoin-app/static/media/contact.42200432.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1f14e63.js",
+    "static/js/2.999f42e9.chunk.js",
+    "static/css/main.e5cc5dbe.chunk.css",
+    "static/js/main.62835a61.chunk.js"
+  ]
+}
